@@ -1,0 +1,90 @@
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\bin\Debug\VSM Filler.exe
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\bin\Debug\VSM Filler.pdb
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\bin\Debug\VSM Filler.xml
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM_Filler.Form1.resources
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM_Filler.Resources.resources
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.exe
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.xml
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.pdb
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\bin\Debug\VSM Filler.exe.manifest
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\bin\Debug\VSM Filler.application
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.exe.manifest
+c:\users\priorax\documents\visual studio 2010\Projects\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.application
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.exe
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.xml
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.pdb
+H:\VSM Filler\VSM Filler\bin\Debug\VSM Filler.exe.manifest
+H:\VSM Filler\VSM Filler\bin\Debug\VSM Filler.application
+H:\VSM Filler\VSM Filler\bin\Debug\VSM Filler.exe
+H:\VSM Filler\VSM Filler\bin\Debug\VSM Filler.pdb
+H:\VSM Filler\VSM Filler\bin\Debug\VSM Filler.xml
+H:\VSM Filler\VSM Filler\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM_Filler.Form1.resources
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM_Filler.Resources.resources
+H:\VSM Filler\VSM Filler\obj\x86\Debug\ResGen.read.1.tlog
+H:\VSM Filler\VSM Filler\obj\x86\Debug\ResGen.write.1.tlog
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.exe.manifest
+H:\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.application
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.exe
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.xml
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.pdb
+C:\scratch\VSM Filler\VSM Filler\bin\Debug\VSM Filler.exe.manifest
+C:\scratch\VSM Filler\VSM Filler\bin\Debug\VSM Filler.application
+C:\scratch\VSM Filler\VSM Filler\bin\Debug\VSM Filler.exe
+C:\scratch\VSM Filler\VSM Filler\bin\Debug\VSM Filler.pdb
+C:\scratch\VSM Filler\VSM Filler\bin\Debug\VSM Filler.xml
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM_Filler.Form1.resources
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM_Filler.Resources.resources
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\ResGen.read.1.tlog
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\ResGen.write.1.tlog
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.exe.manifest
+C:\scratch\VSM Filler\VSM Filler\obj\x86\Debug\VSM Filler.application
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM Filler.exe
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM Filler.xml
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM Filler.pdb
+C:\scratch\VSM Filler_\VSM Filler\bin\Debug\VSM Filler.exe.manifest
+C:\scratch\VSM Filler_\VSM Filler\bin\Debug\VSM Filler.application
+C:\scratch\VSM Filler_\VSM Filler\bin\Debug\VSM Filler.exe
+C:\scratch\VSM Filler_\VSM Filler\bin\Debug\VSM Filler.pdb
+C:\scratch\VSM Filler_\VSM Filler\bin\Debug\VSM Filler.xml
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM_Filler.Form1.resources
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM_Filler.Resources.resources
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\ResGen.read.1.tlog
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\ResGen.write.1.tlog
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM Filler.exe.manifest
+C:\scratch\VSM Filler_\VSM Filler\obj\x86\Debug\VSM Filler.application
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM Filler.xml
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM Filler.pdb
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\bin\Debug\VSM Filler.exe.manifest
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\bin\Debug\VSM Filler.application
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\bin\Debug\VSM Filler.exe
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\bin\Debug\VSM Filler.pdb
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\bin\Debug\VSM Filler.xml
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM_Filler.Form1.resources
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM_Filler.Resources.resources
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\ResGen.read.1.tlog
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\ResGen.write.1.tlog
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM Filler.exe.manifest
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM Filler.application
+C:\scratch\USE THIS ONE!!!!!!!!!!!!!!!!!!\VSM Filler\obj\x86\Debug\VSM Filler.exe
+C:\scratch\20130221\VSM Filler\bin\Debug\VSMFiller.exe.manifest
+C:\scratch\20130221\VSM Filler\bin\Debug\VSMFiller.application
+C:\scratch\20130221\VSM Filler\bin\Debug\VSMFiller.exe
+C:\scratch\20130221\VSM Filler\bin\Debug\VSMFiller.pdb
+C:\scratch\20130221\VSM Filler\bin\Debug\VSMFiller.xml
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSM_Filler.Form1.resources
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSM_Filler.Resources.resources
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\ResGen.read.1.tlog
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\ResGen.write.1.tlog
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSMFiller.exe.manifest
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSMFiller.application
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSMFiller.exe
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSMFiller.xml
+C:\scratch\20130221\VSM Filler\obj\x86\Debug\VSMFiller.pdb
