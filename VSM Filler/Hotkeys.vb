@@ -11,11 +11,41 @@ Public Class frmAHK
     End Sub
 
 
-    Private Function kill()
- 
-        Dim pkill As String = "taskkill /IM "
+    Private Sub btnKill_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnKill.Click
+        Dim backuploc As String = GlobalVariables.location
         Dim batpath As String = "c:\scratch\ahkkill.bat"
         Using batwriter As New StreamWriter(batpath)
+            batwriter.Write("@echo off" + Environment.NewLine)
+        End Using
+        GlobalVariables.location = "00803"
+        Kill()
+        GlobalVariables.location = "brunswick"
+        Kill()
+        GlobalVariables.location = "bundoora"
+        Kill()
+        GlobalVariables.location = "sab"
+        Kill()
+        GlobalVariables.location = "sd"
+        Kill()
+        GlobalVariables.location = "swanston"
+        Kill()
+        Using batwriter As New StreamWriter(batpath, True)
+            batwriter.WriteLine("exit")
+        End Using
+        Dim p As New Process
+        With p
+            p.StartInfo.UseShellExecute = False
+            p.StartInfo.CreateNoWindow = False
+            p.StartInfo.FileName = "c:\windows\system32\cmd.exe"
+            p.StartInfo.Arguments = "/k c:\scratch\ahkkill.bat"
+        End With
+        p.Start()
+        GlobalVariables.location = backuploc
+    End Sub
+    Private Function kill()
+        Dim pkill As String = "taskkill /IM "
+        Dim batpath As String = "c:\scratch\ahkkill.bat"
+        Using batwriter As New StreamWriter(batpath, True)
             batwriter.WriteLine(pkill + """" + GlobalVariables.location + " and.exe "" /f")
             batwriter.WriteLine(pkill + """" + GlobalVariables.location + " ess.exe "" /f")
             batwriter.WriteLine(pkill + """" + GlobalVariables.location + " gapps.exe"" /f")
@@ -28,41 +58,8 @@ Public Class frmAHK
         End Using
         Return 0
     End Function
-
-    Private Sub btnKill_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnKill.Click
-        Dim backuploc As String = GlobalVariables.location
-        Dim batpath As String = "c:\scratch\ahkkill.bat"
-        Using batwriter As New StreamWriter(batpath)
-            batwriter.Write("@echo off" + Environment.NewLine)
-        End Using
-
-        GlobalVariables.location = "00803"
-        kill()
-        GlobalVariables.location = "brunswick"
-        kill()
-        GlobalVariables.location = "bundoora"
-        kill()
-        GlobalVariables.location = "sab"
-        kill()
-        GlobalVariables.location = "sd"
-        kill()
-        GlobalVariables.location = "swanston"
-        kill()
-        'Using batwriter As New StreamWriter(batpath)
-        '   batwriter.WriteLine("exit")
-        'End Using
-        Dim p As New Process
-        With p
-            p.StartInfo.UseShellExecute = False
-            p.StartInfo.CreateNoWindow = False
-            p.StartInfo.FileName = "c:\windows\system32\cmd.exe"
-            p.StartInfo.Arguments = "/k c:\scratch\ahkkill.bat"
-        End With
-        p.Start()
-        GlobalVariables.location = backuploc
-    End Sub
-
     Function makeAHKBat()
+
         Dim batlocation As String = "c:\scratch\ahk.bat"
         Dim cnwriter As New System.IO.StreamWriter(batlocation)
         cnwriter.Write("@echo on")
@@ -107,7 +104,6 @@ Public Class frmAHK
         Else
             MsgBox("Please select a location")
         End If
-
     End Sub
 
     Private Sub ahkReadMe_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ahkReadMe.Click
